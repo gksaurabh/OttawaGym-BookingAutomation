@@ -1,8 +1,8 @@
-#Ottawa Gym Automatic Booking system
+# Ottawa Gym Automatic Booking system
 
 This project was built to automate the process of booking a gym appointment at any of the Ottawa City Gyms/Weightrooms as of 2021.
 
-#Run this project:
+# Run this project:
 In order to run this project, ensure you have to [install](https://nodejs.org/en/download) Node.js. 
 
 Prior to running this code, update the following variables within the index.js file:
