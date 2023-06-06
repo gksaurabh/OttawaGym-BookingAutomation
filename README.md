@@ -3,7 +3,7 @@
 This project was built to automate the process of booking a gym appointment at any of the Ottawa City Gyms/Weightrooms as of 2021. This was built using puppeteer and Node.js
 
 # Run this project:
-This was built using puppeteer and Node.js
+This was built using [puppeteer](https://pptr.dev/) and [Node.js](https://nodejs.org/en/about)
 ## Install Node.js
 In order to run this project, ensure you have to [install](https://nodejs.org/en/download) Node.js. 
 
